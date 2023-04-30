@@ -2,20 +2,20 @@
 title: Home
 ---
 
-# Plain Vanilla GitHub Pages
+Coming soon…
+{: .f2-mktg .mb-1}
 
-The purpose of this project is to make it as easy as possible for low-tech people like me to create and host basic web pages for free on [GitHub Pages](https://pages.github.com/).
+# *Designer Sketches* Podcast
+{: .h1-mktg .mt-0}
 
-## How it works
+Learn from history’s most influential designers. Each episode, I will delve into the life and work of an impactful product designer and share insights to inspire our work.
+{: .f3-mktg}
 
-After creating your own copy of this template repository, add new pages as you need them using the Markdown (.md) format. See the [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) reference for examples of how to add different elements to your pages.
+Design is the fascinating intersection of productive function and emotional form. As thinking beings, we use products to get things done, but as feeling humans, we want to enjoy doing them. This podcast is about the designers who have come before us and wrangled form and function into something that is the essence of beauty.
+{: .f3-mktg}
 
-If you want to go beyond Markdown and add more interactive elements (like button links for navigation components), you can copy and paste code snippets from [GitHub Primer components](https://primer.style/css/components) to your pages.
+If you make things, this is for you. Even if you’re not a trained designer, you design something: a business, a service, an event, a message — something that can benefit from the accrued knowledge and experience of the history of design.
+{: .f3-mktg}
 
-<div class="my-6 text-center">
-<a href="https://github.com/lowcodelounge/plain-vanilla-gh-pages" class="btn-mktg btn-large-mktg">Get the template on GitHub</a>
-  <br>
-<a href="https://youtu.be/jlkHEmgQhGU" class="btn-mktg btn-outline-mktg mt-3">Watch the tutorial on YouTube</a>
-</div>
-
-![Screenshot of "create a new repository" action](assets/img/create-repo.jpg)
+As we stand on the cusp of a new era in technology that will challenge our very notion of humanity, it is more important than ever to learn from the mistakes and mastery of previous designers.
+{: .f3-mktg}
