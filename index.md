@@ -6,7 +6,7 @@ Coming soon…
 {: .f2-mktg .mb-1}
 
 # *Designer Sketches* Podcast
-{: .h1-mktg .mt-0}
+{: .h1-mktg .my-0 .py-0 .border-bottom-0}
 
 {% include newsletter.html %}
 
