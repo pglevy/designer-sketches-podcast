@@ -11,3 +11,7 @@
 em {
     font-family: var(--system-font-stack-serif);
 }
+
+.h1-mktg {
+    font-weight: 600 !important;
+}
