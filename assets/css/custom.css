@@ -1,1 +1,13 @@
 /* Add CSS rules to override Primer */
+
+:root {
+    --system-font-stack-serif: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+}
+
+.system-font-stack-serif {
+    font-family: var(--system-font-stack-serif);
+}
+
+em {
+    font-family: var(--system-font-stack-serif);
+}
