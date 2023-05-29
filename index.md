@@ -8,7 +8,7 @@ Coming soon…
 # *Designer Sketches* Podcast
 {: .h1-mktg .my-0 .py-0 .border-bottom-0}
 
-{% include newsletter.html %}
+{% include player.html %}
 
 Learn from history’s most influential designers. Each episode, I will delve into the life and work of an impactful product designer and share insights to inspire our work.
 {: .f2-mktg .text-light}
