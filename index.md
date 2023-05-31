@@ -3,14 +3,14 @@ title: Home
 ---
 
 Coming soon…
-{: .f2-mktg .mb-1}
+{: .mb-1}
 
 # *Designer Sketches* Podcast
-{: .h1-mktg .my-0 .py-0 .border-bottom-0}
+{: .f00-light .my-0 .py-0 .border-bottom-0 .lh-condensed}
 
 {% include player.html %}
 
-## About the show
+## About Designer Sketches podcast
 
 Learn from history’s most influential designers. Each episode, I will delve into the work of an impactful product designer and share insights to inspire our work.
 {: .f2-mktg .text-light}
