@@ -28,7 +28,7 @@ Here are just some of the interesting people we can learn about together. Theyâ€
 {: .f4-mktg}
 
 - Henry Dreyfuss
-- Charlotte Perirand
+- Charlotte Perriand
 - Les Paul
 - Buckminster Fuller
 - Charles and Ray Eames
